@@ -1,7 +1,8 @@
 Compiler (javac v8)
 ==================
 
-This is a repackaged version of the Java compiler (javac) from OpenJDK 8.
+This is a repackaged version of the Java compiler (javac) from OpenJDK 8,
+derived from OpenJDK 8.91.
 
 It is repackaged to allow usage without conflicting with system installed libraries, and designed primarily
 as an alternative compiler to use with the [Janino](http://docs.codehaus.org/display/JANINO/Home) common compiler API.
